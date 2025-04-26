@@ -22,7 +22,8 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program:
-
+# NAME: MANGARI DEERAJ
+# REG NO: 212223100031
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
